@@ -68,8 +68,16 @@ PORT=5000
 
 ---
 
-## 📸 Screenshots  
-_(Coming Soon...)_  
+## 📸 Screenshots   
+
+### 📊 Dashboard View  
+![Dashboard](public/screenshots/finanseer-1.jpeg)  
+
+### 📈 Dashboard View 2   
+![Dashboard 2](public/screenshots/finanseer-2.jpeg)  
+
+### 💵 Regression Predictions  
+![Financial Insights using RegressionJS](public/screenshots/finanseer-3.jpeg)  
 
 ---
 
